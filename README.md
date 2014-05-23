@@ -2,6 +2,9 @@
 
 A Clojure wrapper around the wonderful samples provided by DIRT (and used by Tidal).
 
+* Dirt https://github.com/yaxu/Dirt
+* Tidal https://github.com/yaxu/Tidal
+
 ## Usage
 
 ```clojure
