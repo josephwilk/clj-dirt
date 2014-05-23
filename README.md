@@ -4,7 +4,7 @@ A Clojure wrapper around the wonderful samples provided by DIRT (and used by Tid
 
 ## Usage
 
-```
+```clojure
 (use 'overtone.live)
 (use 'dirt.core)
 
